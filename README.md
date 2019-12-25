@@ -1,1 +1,2 @@
-# Data analysis using singular value decomposition (SVD) and co-occurrence matrices
+# Non-negative matrix factorization (NMF), singular value decomposition (SVD), TF-IDF and co-occurrence matrices
+Open the notebook on [nbviewer (recommended)](https://nbviewer.jupyter.org/github/schmidtdominik/nmf-svd/blob/master/NMF%2C%20SVD%2C%20TF-IDF%20and%20co-occurrence%20matrices.ipynb) or on [Github](https://github.com/schmidtdominik/nmf-svd/blob/master/NMF%2C%20SVD%2C%20TF-IDF%20and%20co-occurrence%20matrices.ipynb)
